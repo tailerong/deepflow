@@ -7,6 +7,7 @@
 * feat: CK’s username and password support the use of special characters [#7229](https://github.com/deepflowio/deepflow/pull/7119)
 
 #### Bug Fix
+* Fix: the issue with the first path matching error [#11872](https://github.com/deepflowio/deepflow/pull/11872) by [yuanchaoa](https://github.com/yuanchaoa)
 * fix: export otlp panic [#11101](https://github.com/deepflowio/deepflow/pull/11101) by [lzf575](https://github.com/lzf575)
 * fix: add log to agent remote command [#7521](https://github.com/deepflowio/deepflow/pull/7521) by [roryye](https://github.com/roryye)
 * fix: Do not verify dynamic tags [#7505](https://github.com/deepflowio/deepflow/pull/7505) by [xiaochaoren1](https://github.com/xiaochaoren1)
